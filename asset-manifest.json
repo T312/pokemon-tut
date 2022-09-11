@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pokemon-tut/static/css/main.47e929f2.css",
-    "main.js": "/pokemon-tut/static/js/main.36b5c1b6.js",
+    "main.css": "/pokemon-tut/static/css/main.360748c8.css",
+    "main.js": "/pokemon-tut/static/js/main.70e100e4.js",
     "index.html": "/pokemon-tut/index.html",
-    "main.47e929f2.css.map": "/pokemon-tut/static/css/main.47e929f2.css.map",
-    "main.36b5c1b6.js.map": "/pokemon-tut/static/js/main.36b5c1b6.js.map"
+    "main.360748c8.css.map": "/pokemon-tut/static/css/main.360748c8.css.map",
+    "main.70e100e4.js.map": "/pokemon-tut/static/js/main.70e100e4.js.map"
   },
   "entrypoints": [
-    "static/css/main.47e929f2.css",
-    "static/js/main.36b5c1b6.js"
+    "static/css/main.360748c8.css",
+    "static/js/main.70e100e4.js"
   ]
 }
